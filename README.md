@@ -1,4 +1,12 @@
 # GrokkingSwit
 Algorithm practice for book "Grokking algorithms"
+- 5/5 would recommend
 
-WHY: The code snippets in this book is in Python, and I don't know Python yet :) So for learning purposes, I am rewriting them in Swift. 
+
+WHY: To rewrite Python based code in Swift as practice
+
+WHAT: Basic algos. Binary search, Quick sort, Selection sort, etc. 
+
+
+
+
